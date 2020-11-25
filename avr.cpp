@@ -1,6 +1,6 @@
 #include <avr/ioh>                      // Knihovna pro I/O
 #define F_CPU 8000000
-#include <util/delay.h                  // Knihovna zpoždění
+#include <util/delay.h>                 // Knihovna zpoždění
 
 int main (void)                         // Hlavní funkce
 {
